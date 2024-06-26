@@ -26,6 +26,10 @@ The ChatGPT API enables users to interact with advanced language models like GPT
 ## 6: Pinecone
 Pinecone is a cloud-native vector database optimized for handling high-dimensional vectors, providing real-time indexing and search capabilities suitable for AI applications. It integrates seamlessly with popular machine learning frameworks and offers scalability, performance, and ease of use, making it an essential tool for managing vector embeddings in production scenarios.
 
+
+## 7: Posthog
+PostHog is an open-source product analytics platform that has evolved into a comprehensive product and data toolkit, serving over 70,000 teams worldwide. It originated from Y Combinator's W20 batch and quickly gained popularity, achieving significant deployment numbers and GitHub stars shortly after launching its MVP on Hacker News 2
+
 ## 7: RevenueCat 💰
 RevenueCat is a subscription management platform for in-app purchases and subscriptions. I'll delve into how to handle billing and renewal processes effectively, aiming to maximize revenue and improve user retention through seamless subscription experiences.
 
